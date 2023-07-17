@@ -13,4 +13,6 @@ Sudoku consists of a 9 × 9 grid with numbers appearing in some of the squares. 
 <p>
  1. You can select the numbers from selection button which you see on screen from 1 to 9. If you want to reset your game the reset button at the bottom left screen will help you by showing a dailog box click "Yes" and you can reset the game.      
 </p>
+![ex1](https://github.com/shaaluk/javagames/assets/112568360/83a028b0-291e-4091-9948-c49d8ad205c4)
+
 
