@@ -15,6 +15,7 @@ Sudoku consists of a 9 × 9 grid with numbers appearing in some of the squares. 
 </p>
 
 
+
 2. You can reset your game showing the window.
  ![ex2](https://github.com/041090/SUDOKU-GAME/assets/112568360/781ea0a9-4b9d-4f75-9512-7a6a1e170e07)
 
